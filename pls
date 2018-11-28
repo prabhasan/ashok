@@ -26,6 +26,9 @@ what is printf means?
 printf is one of the function which is under header.
 
 what {    } is used in a program?
+ans: A left brace, {, begins the body of every function. A corresponding right brace
+ends each function. This pair of braces and the portion of the program between
+the braces is called a block. The block is an important program unit in C. 
 
 why ; this is used aft the brackets?
 
