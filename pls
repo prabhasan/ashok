@@ -14,9 +14,13 @@ what stdio.h means?
 ans: tells the preprocessor to include the contents of the standard
 input/output header (<stdio.h>) in the program
 
-what is int main represent?
+what is int represent?
 ans: The keyword int to the left of main indicates that main “returns” an
 integer (whole-number) value. 
+
+what does main represent?
+ans: Every program in C begins executing at the function main. Functions can
+return information.
 
 what is printf means?
 printf is one of the function which is under header.
