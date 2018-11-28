@@ -35,6 +35,8 @@ ends each function. This pair of braces and the portion of the program between
 the braces is called a block. The block is an important program unit in C. 
 
 why ; this is used aft the brackets?
+ans:  semicolon (;), is called a statement.
+Every statement must end with a semicolon (also known as the statement terminator
 
 why (    ) is used?
 ans: The parentheses after main indicate that main is a program
@@ -47,3 +49,4 @@ why void is used in c program?
 ans: The void in parentheses here means that main does not receive any information.
 
 what does c!\n mean?
+ans: The escape sequence \n means newline
