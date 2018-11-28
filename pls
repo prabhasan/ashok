@@ -34,6 +34,7 @@ ans: The parentheses after main indicate that main is a program
 building block called a function. 
 
 what is include?
+ans: tells the preprocessor to include the contents in programming.
 
 why void is used in c program?
 ans: The void in parentheses here means that main does not receive any information.
