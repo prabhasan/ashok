@@ -19,9 +19,10 @@ ans: The keyword int to the left of main indicates that main “returns” an
 integer (whole-number) value. 
 
 what is printf means?
-printf is a function which is under header.
+printf is one of the function which is under header.
 
 what {    } is used in a program?
+
 why ; this is used aft the brackets?
 
 why (    ) is used?
