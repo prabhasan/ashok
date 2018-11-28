@@ -23,7 +23,11 @@ ans: Every program in C begins executing at the function main. Functions can
 return information.
 
 what is printf means?
-printf is one of the function which is under header.
+printf is one of the function which is under header.instructs the computer to perform an action, namely to print on the screen the string of
+characters marked by the quotation marks. 
+
+what does f stands for?
+the “f” stands for“formatted” , its argument within the parentheses 
 
 what {    } is used in a program?
 ans: A left brace, {, begins the body of every function. A corresponding right brace
