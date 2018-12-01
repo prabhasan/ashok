@@ -50,3 +50,9 @@ ans: The void in parentheses here means that main does not receive any informati
 
 what does c!\n mean?
 ans: The escape sequence \n means newline
+
+what are functions present under headers?
+for wat <  > this functions used?
+why while function is used in program?
+what type of errors can happen while running a program?
+is that possible to find the errors in programming?
